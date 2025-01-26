@@ -46,7 +46,8 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![Screenshot 2025-01-26 121044](https://github.com/user-attachments/assets/8bd7a1da-adb0-4a65-af92-2e375d1bb550)
+
 Add caption explaining what this shows
 
 ![Screenshot2](Add screenshot 2 here with proper name)
@@ -83,7 +84,7 @@ Explain the final build
 
 ### Project Demo
 # Video
-[Add your demo video link here]
+https://drive.google.com/file/d/19IlMDs_LFNpAsOjZ7fC45onK0LXG6EUl/view?usp=drivesdk
 Explain what the video demonstrates
 
 # Additional Demos
