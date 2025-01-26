@@ -1,34 +1,33 @@
-# [Project Name] 🎯
+# typing speed tester 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Blaahh
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
+- Member 1: Jabeen Fathima - GCEK
+- Member 2: Sandra P K - GCEK
 - Member 3: [Name] - [College]
 
 ### Hosted Project LinkS
-[mention your project hosted project link here]
+https://armida12.github.io/Hackathon/
 
 ### Project Description
-[2-3 lines about what your project does]
+You can improve your typing speed
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+difficulty in typing
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+practicing and keepin track of the improvments
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- html
+
+- v s code
 
 For Hardware:
 - [List main components]
@@ -91,8 +90,8 @@ Explain what the video demonstrates
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
+- Jabeen Fathima:idea formation 
+- Sandra P K: execution
 - [Name 3]: [Specific contributions]
 
 ---
